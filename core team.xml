@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="10" name="Jennifer Wilson" designation="Human Resource Specialist" startDate="2023-09-01" salary="40000.00">
+    <department>Human Resources</department>
+  </employee>
+  <employee id="11" name="Mark Parker" designation="Technical Writer" startDate="2022-07-31" salary="34000.00">
+    <department>Technical Writing</department>
+  </employee>
+  <employee id="12" name="Sarah Jacobs" designation="Data Entry Clerk" startDate="2021-06-15" salary="29000.00">
+    <department>Administration</department>
+  </employee>

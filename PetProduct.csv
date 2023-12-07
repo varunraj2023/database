@@ -1,0 +1,4 @@
+ProductID,ProductName,Category,PetType,Theme,BioSafeMaterials,TechnologyComponents,ThemedAccessories
+1,Pet-Friendly Apartment,Apartments,Cats and Dogs,Modern,"Recycled Plastic, Bamboo","Smart Lock, Temperature Control","Cat Scratcher, Dog Bed"
+2,Pet-Friendly Condominium,Condominiums,Small Dogs,Coastal,"Organic Cotton, Natural Wood","Air Filtration System, Water Purifier","Dog Toys, Coastal-Themed Décor"
+3,Pet-Friendly Single-Family Home,Single-Family Homes,Large Dogs,Farmhouse,"Recycled Wood, Hypoallergenic Carpeting","Security System, Outdoor Play Area","Dog Agility Course, Pet Grooming Station"

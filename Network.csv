@@ -1,0 +1,4 @@
+NetworkComponent,IPAddress,Description
+Office Router,10.10.1.15,Network of Office
+Room Router,192.168.12.65,Network of Room
+Lobby Router,10.10.15.128,Network of Lobby

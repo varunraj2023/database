@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="1" name="Fluffy Friends Dog Toy" category="Toys" petType="Dog" theme="Animals" bioSafeMaterials="Polyester" technologyComponents="None" themedAccessories="Plush squeaker">
+    <description>A soft plush toy with a squeaker that will keep your dog entertained for hours.</description>
+  </product>
+  <product id="2" name="Interactive Cat Scratcher" category="Scratchers" petType="Cat" theme="Tropical" bioSafeMaterials="Carboard" technologyComponents="None" themedAccessories="Attached scratching pad">
+    <description>A sturdy cardboard scratcher with a textured surface that will satisfy your cat's natural urge to scratch.</description>
+  </product>
+  <product id="3" name="Leashed Harness for Small Dogs" category="Harnesses" petType="Dog" theme="Sports" bioSafeMaterials="Neoprene" technologyComponents="None" themedAccessories="Reflective trim">
+    <description>A comfortable and durable harness for small dogs with a leash attachment point.</description>
+  </product>
+</products>

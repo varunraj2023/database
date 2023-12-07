@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplyChainItems>
+  <item id="1" rawMaterialName="Cotton" supplierName="Textile Mills Inc." quantity="1000" unitPrice="12.50" deliveryDate="2023-11-30">
+    <description>High-quality cotton fabric for manufacturing garments.</description>
+  </item>
+  <item id="2" rawMaterialName="Plastic" supplierName="ABC Polymers" quantity="500" unitPrice="8.75" deliveryDate="2023-12-15">
+    <description>Durable plastic resin for various manufacturing applications.</description>
+  </item>
+  <item id="3" rawMaterialName="Steel" supplierName="Metalworks Corporation" quantity="200" unitPrice="35.00" deliveryDate="2023-11-20">
+    <description>High-strength steel for construction and manufacturing.</description>
+  </item>
+  <item id="4" rawMaterialName="Wood" supplierName="Timberland Lumber" quantity="1000" unitPrice="15.00" deliveryDate="2023-12-05">
+    <description>Sustainable pine wood for furniture and construction.</description>
+  </item>
+  <item id="5" rawMaterialName="Electronics Components" supplierName="Global Tech" quantity="500" unitPrice="20.00" deliveryDate="2023-11-25">
+    <description>Assorted electronic components for circuit boards and devices.</description>
+  </item>
+</supplyChainItems>

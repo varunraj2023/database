@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<networkComponents>
+  <component name="Router" ipAddress="192.168.1.1" description="Provides network connectivity between different subnets and networks.">
+    <vendor>Cisco</vendor>
+    <model>RV140</model>
+  </component>
+  <component name="Switch" ipAddress="192.168.1.254" description="Connects multiple devices within a local area network (LAN).">
+    <vendor>TP-Link</vendor>
+    <model>TL-SG108</model>
+  </component>
+  <component name="Wireless Access Point (WAP)" ipAddress="192.168.1.10" description="Provides wireless connectivity for devices within its range.">
+    <vendor>Netgear</vendor>
+    <model>Nighthawk R7800</model>
+  </component>
+  <component name="Firewall" ipAddress="192.168.1.3" description="Protects the network from unauthorized access and malicious attacks.">
+    <vendor>FortiNet</vendor>
+    <model>FortiGate 60F</model>
+  </component>
+  <component name="Server" ipAddress="192.168.1.20" description="Provides file sharing, web hosting, and other network services.">
+    <vendor>Dell</vendor>
+    <model>PowerEdge R740xd</model>
+  </component>
+</networkComponents>
